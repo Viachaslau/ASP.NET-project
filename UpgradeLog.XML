@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WebApplication2">
+</Property><Property Name="Solution File" Value="D:\projects\ASP.NET-project\WebApplication2.sln">
+</Property><Property Name="User Options File" Value="D:\projects\ASP.NET-project\WebApplication2.v11.suo">
+</Property><Property Name="Date" Value="Thursday, May 17, 2012">
+</Property><Property Name="Time" Value="21:02 PM">
+</Property></Properties><Event ErrorLevel="3" Project="" Source="WebApplication2.sln" Description="SafeUpgrade">
+</Event><Event ErrorLevel="0" Project="" Source="WebApplication2.sln" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WebApplication2.v11.suo" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2.v11.suo">
+</Event><Event ErrorLevel="3" Project="WebApplication2" Source="WebApplication2\WebApplication2.csproj" Description="SafeUpgrade">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\WebApplication2.csproj" Description="Project file successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\WebApplication2.csproj">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\WebApplication2.csproj.user" Description="Project user file successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\WebApplication2.csproj.user">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\About.aspx.cs" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\About.aspx.cs">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\About.aspx.designer.cs" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\About.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Account\ChangePassword.aspx.cs" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Account\ChangePassword.aspx.cs">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Account\ChangePassword.aspx.designer.cs" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Account\ChangePassword.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Account\ChangePasswordSuccess.aspx.cs" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Account\ChangePasswordSuccess.aspx.cs">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Account\ChangePasswordSuccess.aspx.designer.cs" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Account\ChangePasswordSuccess.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Account\Login.aspx.cs" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Account\Login.aspx.cs">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Account\Login.aspx.designer.cs" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Account\Login.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Account\Register.aspx.cs" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Account\Register.aspx.cs">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Account\Register.aspx.designer.cs" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Account\Register.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Default.aspx.cs" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Default.aspx.cs">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Default.aspx.designer.cs" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Default.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Global.asax.cs" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Global.asax.cs">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Site.Master.cs" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Site.Master.cs">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Site.Master.designer.cs" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Site.Master.designer.cs">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\About.aspx" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\About.aspx">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Account\ChangePassword.aspx" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Account\ChangePassword.aspx">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Account\ChangePasswordSuccess.aspx" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Account\ChangePasswordSuccess.aspx">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Account\Login.aspx" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Account\Login.aspx">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Account\Register.aspx" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Account\Register.aspx">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\App_Data\Database1.mdf" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\App_Data\Database1.mdf">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\App_Data\Database1_log.ldf" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\App_Data\Database1_log.ldf">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Styles\Site.css" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Styles\Site.css">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Default.aspx" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Default.aspx">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Global.asax" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Global.asax">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Scripts\jquery-1.4.1-vsdoc.js" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Scripts\jquery-1.4.1-vsdoc.js">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Scripts\jquery-1.4.1.js" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Scripts\jquery-1.4.1.js">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Scripts\jquery-1.4.1.min.js" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Scripts\jquery-1.4.1.min.js">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Web.config" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Web.config">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Web.Debug.config" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Web.Debug.config">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Web.Release.config" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Web.Release.config">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Account\Web.config" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Account\Web.config">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\Site.Master" Description="File successfully backed up as D:\projects\ASP.NET-project\Backup\WebApplication2\Site.Master">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\WebApplication2.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WebApplication2" Source="WebApplication2\WebApplication2.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WebApplication2.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WebApplication2.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WebApplication2" Source="WebApplication2\WebApplication2.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
