@@ -8,3 +8,8 @@ D:\projects\ASP.NET-project\WebApplication2\bin\WebApplication2.pdb
 D:\projects\ASP.NET-project\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
 D:\projects\ASP.NET-project\WebApplication2\obj\Debug\WebApplication2.dll
 D:\projects\ASP.NET-project\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Sergey i Zaiac\Documents\GitHub\ASP.NET-project\WebApplication2\bin\WebApplication2.dll
+C:\Users\Sergey i Zaiac\Documents\GitHub\ASP.NET-project\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Sergey i Zaiac\Documents\GitHub\ASP.NET-project\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Sergey i Zaiac\Documents\GitHub\ASP.NET-project\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Sergey i Zaiac\Documents\GitHub\ASP.NET-project\WebApplication2\obj\Debug\WebApplication2.pdb

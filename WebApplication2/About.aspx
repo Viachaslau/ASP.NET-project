@@ -10,7 +10,7 @@
         &nbsp;IP&nbsp; MAC table of hostel network users&nbsp;</h2>
     
     <p>
-        <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+        <asp:TextBox ID="TextBox1" runat="server" Width="343px"></asp:TextBox>
         <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Search" 
             Width="89px" />
     <asp:GridView ID="GridView1" runat="server" AllowPaging="True" 
@@ -23,8 +23,6 @@
                     SortExpression="Id" />
                 <asp:BoundField DataField="ip" HeaderText="ip" SortExpression="ip" />
                 <asp:BoundField DataField="mac" HeaderText="mac" SortExpression="mac" />
-                <asp:BoundField DataField="room" HeaderText="room" SortExpression="room" />
-                <asp:BoundField DataField="info" HeaderText="info" SortExpression="info" />
             </Columns>
             <FooterStyle BackColor="#CCCC99" ForeColor="Black" />
             <HeaderStyle BackColor="#333333" Font-Bold="True" ForeColor="White" />
@@ -38,6 +36,7 @@
     
         <asp:SqlDataSource ID="SqlDataSource1" runat="server" 
             ConnectionString="<%$ ConnectionStrings:ConnectionString %>" 
-            SelectCommand="SELECT * FROM [iptable]"></asp:SqlDataSource>
+            
+            SelectCommand="SELECT iptable.Id, iptable.ip, mactable.mac FROM iptable INNER JOIN mactable ON iptable.Id = mactable.ip"></asp:SqlDataSource>
     </p>
 </asp:Content>
