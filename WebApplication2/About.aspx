@@ -11,8 +11,10 @@
     
     <p>
         <asp:TextBox ID="TextBox1" runat="server" Width="343px"></asp:TextBox>
-        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Search" 
-            Width="89px" />
+        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Search IP" 
+            Width="172px" />
+        <asp:Button ID="Button3" runat="server" OnClick="Button3_Click" 
+            Text="Show Info" Width="99px" />
     <asp:GridView ID="GridView1" runat="server" AllowPaging="True" 
             AutoGenerateColumns="False" BackColor="White" BorderColor="#CCCCCC" 
             BorderStyle="None" BorderWidth="1px" CellPadding="4" DataKeyNames="Id" 
